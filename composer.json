@@ -1,5 +1,5 @@
 {
-    "name": "phpoffice/phpspreadsheet",
+    "name": "eevgbut/phpspreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": [
         "PHP",
@@ -20,7 +20,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "homepage": "https://github.com/PHPOffice/PhpSpreadsheet",
+    "homepage": "https://github.com/eevgbut/PhpSpreadsheet",
     "type": "library",
     "license": "MIT",
     "authors": [
